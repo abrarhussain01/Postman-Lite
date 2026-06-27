@@ -88,12 +88,6 @@ npm run dev
 
 ---
 
-## 📷 Preview
-
-> Add screenshots of your application here.
-
----
-
 ## 📌 Future Enhancements
 
 - Authentication (Bearer Token, Basic Auth)
