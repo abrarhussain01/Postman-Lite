@@ -4,7 +4,7 @@ A lightweight, modern API testing client inspired by Postman, built with **React
 
 ## 🌐 Live Demo
 
-🔗 https://vercel.com/abrar7/postman-lite
+🔗 https://postman-lite-chi.vercel.app/
 
 ---
 
